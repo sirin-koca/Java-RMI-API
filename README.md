@@ -1,5 +1,5 @@
 # Java RMI – International Statistics Service
-This project implements an object-based distributed system using Java RMI for remote method invocation. 
+This project implements an object-based distributed system using Java RMI (Remote Method Invocation). 
 It follows a simple client/server architecture with a load-balancing proxy, processes a large dataset, and 
 simulates remote communication on a single machine. To improve scalability and reproducibility, 
 it integrates caching mechanisms and hosts the servers in Docker containers.
